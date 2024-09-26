@@ -1,0 +1,34 @@
+@DotNet8API_HostAddress = https://localhost:7292
+
+GET {{DotNet8API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+DELETE {{DotNet8API_HostAddress}}/{id}
+
+###
+
+PUT {{DotNet8API_HostAddress}}/{id}
+Content-Type: application/json
+
+{
+  //OurHero
+}
+
+###
+
+GET {{DotNet8API_HostAddress}}/0
+
+###
+
+GET {{DotNet8API_HostAddress}}/api/ourhero
+
+###
+
+POST {{DotNet8API_HostAddress}}/api/ourhero
+Content-Type: application/json
+
+{
+  //OurHero
+}

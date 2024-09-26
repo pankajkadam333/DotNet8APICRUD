@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DemoApps\\DotNet8API\\DotNet8API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|D:\\DemoApps\\DotNet8API\\DotNet8API\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|solutionrelative:services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|d:\\demoapps\\dotnet8api\\dotnet8api\\mappingprofiles\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|solutionrelative:mappingprofiles\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|d:\\demoapps\\dotnet8api\\dotnet8api\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|solutionrelative:services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|D:\\DemoApps\\DotNet8API\\DotNet8API\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|d:\\demoapps\\dotnet8api\\dotnet8api\\dto\\updateourherorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|solutionrelative:dto\\updateourherorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|d:\\demoapps\\dotnet8api\\dotnet8api\\dto\\createourherorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|solutionrelative:dto\\createourherorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|d:\\demoapps\\dotnet8api\\dotnet8api\\model\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|solutionrelative:model\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|D:\\DemoApps\\DotNet8API\\DotNet8API\\controllers\\ourherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|solutionrelative:controllers\\ourherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|d:\\demoapps\\dotnet8api\\dotnet8api\\appdatacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|solutionrelative:appdatacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|d:\\demoapps\\dotnet8api\\dotnet8api\\model\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|solutionrelative:model\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|d:\\demoapps\\dotnet8api\\dotnet8api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F7868DF-299D-461E-8E3C-A8A1ABCC8716}|DotNet8API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateOurHeroRequest.cs",
+              "DocumentMoniker": "D:\\DemoApps\\DotNet8API\\DotNet8API\\dto\\UpdateOurHeroRequest.cs",
+              "RelativeDocumentMoniker": "dto\\UpdateOurHeroRequest.cs",
+              "ToolTip": "D:\\DemoApps\\DotNet8API\\DotNet8API\\dto\\UpdateOurHeroRequest.cs",
+              "RelativeToolTip": "dto\\UpdateOurHeroRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:43:50.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOurHeroRequest.cs",
+              "DocumentMoniker": "D:\\DemoApps\\DotNet8API\\DotNet8API\\dto\\CreateOurHeroRequest.cs",
+              "RelativeDocumentMoniker": "dto\\CreateOurHeroRequest.cs",
+              "ToolTip": "D:\\DemoApps\\DotNet8API\\DotNet8API\\dto\\CreateOurHeroRequest.cs",
+              "RelativeToolTip": "dto\\CreateOurHeroRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:41:13.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\DemoApps\\DotNet8API\\DotNet8API\\MappingProfiles\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "MappingProfiles\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\DemoApps\\DotNet8API\\DotNet8API\\MappingProfiles\\AutoMapperProfile.cs",
+              "RelativeToolTip": "MappingProfiles\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:38:45.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOurHeroService.cs",
+              "DocumentMoniker": "D:\\DemoApps\\DotNet8API\\DotNet8API\\services\\IOurHeroService.cs",
+              "RelativeDocumentMoniker": "services\\IOurHeroService.cs",
+              "ToolTip": "D:\\DemoApps\\DotNet8API\\DotNet8API\\services\\IOurHeroService.cs",
+              "RelativeToolTip": "services\\IOurHeroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:35:33.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\DemoApps\\DotNet8API\\DotNet8API\\AppDataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDataContext\\AppDbContext.cs",
+              "ToolTip": "D:\\DemoApps\\DotNet8API\\DotNet8API\\AppDataContext\\AppDbContext.cs",
+              "RelativeToolTip": "AppDataContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:35:52.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\DemoApps\\DotNet8API\\DotNet8API\\Model\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Model\\AppSettings.cs",
+              "ToolTip": "D:\\DemoApps\\DotNet8API\\DotNet8API\\Model\\AppSettings.cs",
+              "RelativeToolTip": "Model\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:32:17.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DemoApps\\DotNet8API\\DotNet8API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DemoApps\\DotNet8API\\DotNet8API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:17:27.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OurHeroService.cs",
+              "DocumentMoniker": "D:\\DemoApps\\DotNet8API\\DotNet8API\\services\\OurHeroService.cs",
+              "RelativeDocumentMoniker": "services\\OurHeroService.cs",
+              "ToolTip": "D:\\DemoApps\\DotNet8API\\DotNet8API\\services\\OurHeroService.cs",
+              "RelativeToolTip": "services\\OurHeroService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwBkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:17:27.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DemoApps\\DotNet8API\\DotNet8API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\DemoApps\\DotNet8API\\DotNet8API\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T12:43:17.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OurHero.cs",
+              "DocumentMoniker": "D:\\DemoApps\\DotNet8API\\DotNet8API\\Model\\OurHero.cs",
+              "RelativeDocumentMoniker": "Model\\OurHero.cs",
+              "ToolTip": "D:\\DemoApps\\DotNet8API\\DotNet8API\\Model\\OurHero.cs",
+              "RelativeToolTip": "Model\\OurHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:30:18.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OurHeroController.cs",
+              "DocumentMoniker": "D:\\DemoApps\\DotNet8API\\DotNet8API\\Controllers\\OurHeroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OurHeroController.cs",
+              "ToolTip": "D:\\DemoApps\\DotNet8API\\DotNet8API\\Controllers\\OurHeroController.cs",
+              "RelativeToolTip": "Controllers\\OurHeroController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:17:27.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
